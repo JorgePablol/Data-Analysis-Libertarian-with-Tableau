@@ -10,7 +10,9 @@ The entire wrangling you can see it by opening the [file](https://github.com/Jor
 
 # Libertarian visualization
 Of course I made a visualization of this dataset, you can access by clicking these links:
+
 Twitter report: https://tinyurl.com/twitterReportPlib
+
 Facebook report: https://tinyurl.com/fbReportPlib
 
 
