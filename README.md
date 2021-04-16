@@ -6,7 +6,7 @@ The entire wrangling you can see it by opening the [file](https://github.com/Jor
   * Python 3.7
   * Pandas 1.1.5
   * Numpy 1.19.5
-  * Datetime 3.2
+  * Datetime
 
 # Libertarian visualization
 Of course I made a visualization of this dataset, you can access by clicking these links:
