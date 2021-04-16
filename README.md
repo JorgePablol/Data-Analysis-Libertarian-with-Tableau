@@ -10,8 +10,10 @@ The entire wrangling you can see it by opening the [file](https://github.com/Jor
 
 # Libertarian Visualization
 Of course I made a visualization for this dataset.
-## Tools and libraries:
+## Tools
+  * Excel
   * Google Date Studio
+ 
 ## Access to the visualizations:
 
 Twitter report: https://tinyurl.com/twitterReportPlib
