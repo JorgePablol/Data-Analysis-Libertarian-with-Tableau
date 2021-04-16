@@ -12,7 +12,7 @@ The entire wrangling you can see it by opening the [file](https://github.com/Jor
 Of course I made a visualization for this dataset.
 ## Tools
   * Excel
-  * Google Date Studio
+  * Google Data Studio
  
 ## Access to the visualizations:
 
