@@ -16,8 +16,8 @@ Of course I made a visualization for this dataset.
  
 ## Access to the visualizations:
 
-Twitter report: https://tinyurl.com/twitterReportPlib
+[Twitter report](https://tinyurl.com/twitterReportPlib)
 
-Facebook report: https://tinyurl.com/fbReportPlib
+[Facebook report](https://tinyurl.com/fbReportPlib)
 
 
