@@ -8,7 +8,7 @@ The entire wrangling you can see it by opening the [file](https://github.com/Jor
   * Numpy 1.19.5
   * Datetime
 
-# Libertarian visualization
+# Libertarian Visualization
 Of course I made a visualization for this dataset.
 ## Tools and libraries:
   * Google Date Studio
