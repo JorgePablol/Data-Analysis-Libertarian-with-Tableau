@@ -8,9 +8,8 @@ The entire wrangling you can see it by opening the [file](https://github.com/Jor
   * Numpy 1.19.5
   * Datetime
 
-# Libertarian Visualization
-Of course I made a visualization for this dataset.
-Access to the visualizations:
+# Libertarian Visualizations and Results
+Access to the reports:
 
 [Twitter report](https://tinyurl.com/twitterReportPlib)
 
