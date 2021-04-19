@@ -2,7 +2,7 @@
 This is a repository to show the data wrangling files I made to clean the data from social networks for the Libertarian Party Mx (Mexican).
 The entire wrangling you can see it by opening the [file](https://github.com/JorgePablol/Libertarian-Wrangling/blob/main/Libertarian_cleaning_github_version.ipynb). Or simply open it from this folder, the file is Libertarian_cleaning_github_version.ipynb
 
-# Libertarian Visualizations and Results
+# Libertarian Report and Analysis
 Access to the reports:
 
 [Twitter report](https://tinyurl.com/twitterReportPlib)
