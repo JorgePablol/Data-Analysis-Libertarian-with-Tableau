@@ -5,7 +5,7 @@ The entire wrangling you can see it by opening the [file](https://github.com/Jor
 # Libertarian Report and Analysis
 Access to the reports:
 
-[Twitter report](https://tinyurl.com/twitterReportPlib)
+[Twitter report](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
 [Facebook report](https://tinyurl.com/fbReportPlib)
 
@@ -16,5 +16,6 @@ Access to the reports:
   * Datetime
   * Excel
   * Google Data Studio
+  * Tableau
 
 
