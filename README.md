@@ -15,7 +15,6 @@ Access to the reports:
   * Numpy 1.19.5
   * Datetime
   * Excel
-  * Google Data Studio
   * Tableau
 
 
