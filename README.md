@@ -7,7 +7,7 @@ Access to the reports:
 
 [Twitter report](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link) (Please use full screen mode)
 
-[Facebook report](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+[Facebook report](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link) (Please use full screen mode)
 
 # Tools and Libraries:
   * Python 3.7
