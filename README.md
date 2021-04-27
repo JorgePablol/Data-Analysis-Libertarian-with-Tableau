@@ -64,21 +64,23 @@ That is all, I wanted to not get too deep in thought, just some simple and relev
   * Tableau
 
 # [Data Wrangling](#Table-Of-Contents)
-The wrangling was done altogether (twitter and facebook) in a jupyter notebook via google colab. The wrangling can be divided in 4 simple steps:
+The wrangling was done altogether (twitter and facebook) in a jupyter notebook via google colab, to see the entire document and more in detail comments I added [click](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau/blob/main/Libertarian_cleaning_github_version.ipynb) if the document don't open reload or download and open it with Google Colab. 
 
-## 1. Importing Libraries
+## The wrangling can be divided in 4 simple steps:
+
+### 1. Importing Libraries
 
 ![wran1](https://user-images.githubusercontent.com/58957744/116272528-98521e80-a746-11eb-8df7-9b106963825e.png)
 
-## 2. Dropping useless features
+### 2. Dropping useless features
 
 ![wran2](https://user-images.githubusercontent.com/58957744/116274265-1d8a0300-a748-11eb-87d4-87907f0ca433.png)
 
-## 3. Creating interesting features like weekday name, hour feature.
+### 3. Creating interesting features like weekday name, hour feature.
 
 ![wran3](https://user-images.githubusercontent.com/58957744/116274269-1e229980-a748-11eb-9098-2cda8792575d.png)
 
-## 4. Executing the function scripts.
+### 4. Executing the function scripts.
 
 ![wran4](https://user-images.githubusercontent.com/58957744/116274272-1e229980-a748-11eb-85c6-c72e27b18236.png)
 
