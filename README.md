@@ -15,7 +15,8 @@ Another important KPI are the 'Comentarios' that means comments, the results is 
 
 On the description side I will just say a few things so I avoid making this project boring to read for you, we can see a big difference between the median and the mean, that is because the distribution of the people a publication reach is biased to the right, what I mean is that 75% of our publications are lower than 651 of people reached, even though there are some publications that can be considered outliers, like the event on 8th February that reached 77k.
 
-![fbdesc](https://user-images.githubusercontent.com/58957744/116261033-dd715300-a73c-11eb-9c03-010214d786b3.png)
+![fb](https://user-images.githubusercontent.com/58957744/116322114-fef42e00-a780-11eb-9483-0850b1e6823b.png)
+
 
 Here we can take a quick glance of the cities that follow us, the countries and the audience demography. We know now the cities we can start to invite affiliates to events of the party to start the register in that county, for example start with Mexico City, our best city where we can start to host bigger events presential as soon as it is possible. 
 
