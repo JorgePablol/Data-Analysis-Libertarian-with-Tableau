@@ -48,9 +48,6 @@ That is all, I wanted to not get too deep in thought, just some simple and relev
 # Table Of Contents
 * [Tools And Libraries](#Tools-And-Libraries)
 * [Data Wrangling](#Data-Wrangling)
-* [Data Analysis](#Data-Analysis)
-  * [Questions](#Quesitons)
-* [Data Visualization](#Data-Visualization)
 
 ## [Tools And Libraries](#Table-Of-Contents)
   * Python 3.7
@@ -79,8 +76,3 @@ The wrangling was done altogether (twitter and facebook) in a jupyter notebook v
 
 ![wran4](https://user-images.githubusercontent.com/58957744/116274272-1e229980-a748-11eb-85c6-c72e27b18236.png)
 
-
-
-## [Data Analysis](#Table-Of-Contents)
-### [Questions](#Table-Of-Contents)
-## [Data Visualization](#Table-Of-Contents)
