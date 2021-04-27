@@ -4,7 +4,7 @@ Here I made an analysis for Partido Libertario Mx which is similar to a Libertar
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
 
 # [Results](#Table-Of-Contents)
-The results are written below but if you want to see the report in tableau click there [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link) and [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+The results are written below but if you want to see the report in tableau click there [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link) and [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link).
   
 
 ## [Facebook Report February 2021](#Table-Of-Contents)
