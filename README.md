@@ -48,7 +48,7 @@ That is all, I wanted to not get too deep in thought, just some simple and relev
 
 # Table Of Contents
 
-* [Resume](#Partido-Libertario-Mx-Social-Networks-Analysis)
+* [Abstract](#Partido-Libertario-Mx-Social-Networks-Analysis)
 * [Results](#Results)
   *  [Twitter Report February 2021](#Twitter-Report-February-2021)
   *  [Facebook Report February 2021](#Facebook-Report-February-2021)
