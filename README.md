@@ -8,7 +8,7 @@ To watch the report in tableau, use full screen mode:
 *  [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link)
 *  [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
-## [Facebook Report | February 2021](#Table-Of-Contents)
+## [Facebook Report February 2021](#Table-Of-Contents)
 
 First I start by concentratring the results cards and the statistical description of the KPIs for the social network on this case we incresed almost every aspect compared to january, january when I analysed it, it was towards to be a low results month, here we can see that we passed that bad month. Starting with the 'alcance' that means scope or reach, we incresed the number of people that watches our content by 375% compared to the past month. 
 
@@ -29,7 +29,7 @@ See the 2 spikes the first one belongs to the event with othe libertarian partie
 ![fb2](https://user-images.githubusercontent.com/58957744/116261029-dcd8bc80-a73c-11eb-8d8c-2f828f117d79.png)
 
 
-## [Twitter Report | February 2021](#Table-Of-Contents)
+## [Twitter Report February 2021](#Table-Of-Contents)
 
 We can see a clear increase in any KPI compared to january but when we know the overall panorama we know january was low and even if february was better, february is still a low month we can know that by looking at the max impressions that is about 55k, that is low from our best tweets ever, those are at least above 100k. 
 
@@ -51,8 +51,8 @@ That is all, I wanted to not get too deep in thought, just some simple and relev
 
 * [Resume](#Resume)
 * [Results](#Results)
-  *  [Twitter Report | February 2021](#Twitter-Report-|-February-2021)
-  *  [Facebook Report | February 2021](#Facebook-Report-|-February-2021)
+  *  [Twitter Report February 2021](#Twitter-Report-February-2021)
+  *  [Facebook Report February 2021](#Facebook-Report-February-2021)
 * [Tools And Libraries](#Tools-And-Libraries)
 * [Data Wrangling](#Data-Wrangling)
 
