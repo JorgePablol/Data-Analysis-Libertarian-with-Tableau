@@ -1,5 +1,5 @@
 # Resume
-Here I did an analysis for Partido Libertario Mx which is similar to a Libertarian Party, this analysis belongs to february 2021 data, the purpose is to analyse if their social networks are growing or not, and where is the audience from.
+Here I did an analysis for Partido Libertario Mx which is similar to a Libertarian Party, this analysis belongs to february 2021 data, the purpose is to analyse if their social networks are growing or not, what provoked the improvement, and where is the audience from.
 
 # Results
 To watch the entire report please go to [Data Visualization](#Data-Visualization)
@@ -22,15 +22,15 @@ See the 2 spikes the first one belongs to the event with othe libertarian partie
 
 ### Twitter Report | February 2021
 
-We can see a clear increase in any KPI compared to january but when we know the overall panorama we know january was low and even if february was better, february is still a low month we can know that by looking at the max impressions that is about 55K, that is low from our best twits ever, those are at least above 100k. The distribution of twits and impressions is similar to facebook's with the difference that what is considered here a low twit impressions Q1 = 953 on facebook the similar KPI with that number is above Q3. On a past analysis I did for them it was clear how twitter is better than facebook for them, but here we can see another frame on how that is true.
+We can see a clear increase in any KPI compared to january but when we know the overall panorama we know january was low and even if february was better, february is still a low month we can know that by looking at the max impressions that is about 55k, that is low from our best twits ever, those are at least above 100k. The distribution of twits and impressions is similar to facebook's with the difference that what is considered here a low twit impressions Q1 = 953 on facebook the similar KPI with that number is above Q3. On a past analysis I did for them it was clear how twitter is better than facebook for them, but here we can see another frame on how that is true.
 
 ![twitdesc](https://user-images.githubusercontent.com/58957744/116267923-7191e900-a742-11eb-9315-a181bf357c31.png)
 
-We have some spikes through the month, at least 8, I labeled the most important, we can click the data point to see the twits that belong to that day, as I said our most 'viral' content is about cricising the actual government, the event of libertarian parties, anti-socialism and eventual scandals like the one of the Osito Bimbo (Bimbo's bear).
+We have some spikes through the month, at least 8, I labeled the most important, we can click the data point to see the twits that belong to that day, as I said our most 'viral' content is about criticising the actual government, the event of libertarian parties, anti-socialism and eventual scandals like the one of the Osito Bimbo (Bimbo's bear).
 
 ![twit](https://user-images.githubusercontent.com/58957744/116261034-de09e980-a73c-11eb-9349-192960bd33c0.png)
 
-This month as in the overall analysis is congruent, the best our is around 5 p.m. as we can see the biggest bar, on thing that this chart means without putting it in is that there are no publications between 8 and 10 a.m., we have to analyse that, historicly our best ours are 6 p.m. and above, but we have to as ourselves if we are actually looking to not twit at that our if not there is an error.
+This month as in the overall analysis is congruent, the best hours are around 5 p.m. as we can see the biggest bar, on thing that this chart means without putting it in is that there are no publications between 8 and 10 a.m., we have to analyse that, historicly our best ours are 6 p.m. and above, but we have to ask ourselves if we are actually looking to not tweet at that hour or if not there is an error.
 
 ![twit2](https://user-images.githubusercontent.com/58957744/116261037-de09e980-a73c-11eb-8f03-c6201888a6af.png)
 
