@@ -51,8 +51,8 @@ That is all, I wanted to not get too deep in thought, just some simple and relev
 
 * [Resume](#Resume)
 * [Results](#Results)
- * [Twitter Report | February 2021](#Twitter-Report-|-February-2021)
- * [Facebook Report | February 2021](#Facebook-Report-|-February-2021)
+  *  [Twitter Report | February 2021](#Twitter-Report-|-February-2021)
+  *  [Facebook Report | February 2021](#Facebook-Report-|-February-2021)
 * [Tools And Libraries](#Tools-And-Libraries)
 * [Data Wrangling](#Data-Wrangling)
 
