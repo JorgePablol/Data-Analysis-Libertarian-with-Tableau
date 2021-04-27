@@ -47,9 +47,11 @@ That is all, I wanted to not get too deep in thought, just some simple and relev
 
 # Table Of Contents
 
+* [Resume](#Resume)
 * [Results](#Results)
 * [Tools And Libraries](#Tools-And-Libraries)
 * [Data Wrangling](#Data-Wrangling)
+
 
 ## [Tools And Libraries](#Table-Of-Contents)
   * Python 3.7
