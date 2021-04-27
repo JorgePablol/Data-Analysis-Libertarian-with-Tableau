@@ -24,7 +24,7 @@ See the 2 spikes the first one belongs to the event with othe libertarian partie
 
 We can see a clear increase in any KPI compared to january but when we know the overall panorama we know january was low and even if february was better, february is still a low month we can know that by looking at the max impressions that is about 55K, that is low from our best twits ever, those are at least above 100k. The distribution of twits and impressions is similar to facebook's with the difference that what is considered here a low twit impressions Q1 = 953 on facebook the similar KPI with that number is above Q3. On a past analysis I did for them it was clear how twitter is better than facebook for them, but here we can see another frame on how that is true.
 
-![twitdesc](https://user-images.githubusercontent.com/58957744/116261039-dea28000-a73c-11eb-9778-9747f0ada1b.png)
+![twitdesc](https://user-images.githubusercontent.com/58957744/116267923-7191e900-a742-11eb-9315-a181bf357c31.png)
 
 We have some spikes through the month, at least 8, I labeled the most important, we can click the data point to see the twits that belong to that day, as I said our most 'viral' content is about cricising the actual government, the event of libertarian parties, anti-socialism and eventual scandals like the one of the Osito Bimbo (Bimbo's bear).
 
