@@ -2,7 +2,9 @@
 Here I did an analysis for Partido Libertario Mx which is similar to a Libertarian Party, this analysis belongs to february 2021 data, the purpose is to analyse if their social networks are growing or not, what provoked the improvement, and where is the audience from.
 
 # Results
-To watch the entire report please go to [Data Visualization](#Data-Visualization)
+To watch the report in tableau, use full screen mode:
+*  [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link)
+*  [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ### Facebook Report | February 2021
 
