@@ -11,7 +11,7 @@ On the description side I will just say a few things so I avoid making this proj
 
 ![fbdesc](https://user-images.githubusercontent.com/58957744/116261033-dd715300-a73c-11eb-9c03-010214d786b3.png)
 
-Here we can take a quick glance of the cities that follow us, the countries and the audience demography. We know now the cities we can start to invite affiliates to events of the party to start the register in that county, for example start with Mexico City, our best city where we can start to host bigger events presential as soon as it is possible.
+Here we can take a quick glance of the cities that follow us, the countries and the audience demography. We know now the cities we can start to invite affiliates to events of the party to start the register in that county, for example start with Mexico City, our best city where we can start to host bigger events presential as soon as it is possible. What we can conclude here is that we must increase our content directed to women the proportion of females compared to males is ridiculous, knowing a bit about this movement they have great women personalities of liberalism and libertarianism so an objective will be to share about them and try to attract more women to the party.
 
 ![fb](https://user-images.githubusercontent.com/58957744/116261041-dea28000-a73c-11eb-9be2-04b6e1198cd2.png)
 
