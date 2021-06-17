@@ -73,7 +73,8 @@ The wrangling was done altogether (twitter and facebook) in a jupyter notebook v
 ### 1. Importing Libraries and declaring the function I will use to create some features on the next functions.
 
 
-![librerias creacion de features](https://user-images.githubusercontent.com/58957744/122441915-a6146b00-cf63-11eb-8588-cb3fd10d23a7.png)
+![librerias creacion de features](https://user-images.githubusercontent.com/58957744/122442315-0f947980-cf64-11eb-8b45-c0f389e22dc2.png)
+
 
 ### 2. Dropping useless features
 
