@@ -68,21 +68,23 @@ That is all, I wanted to not get too deep in thought, just some simple and relev
 # [Data Wrangling](#Table-Of-Contents)
 The wrangling was done altogether (twitter and facebook) in a jupyter notebook via google colab, to see the entire document and more in detail comments I added [click](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau/blob/main/Libertarian_cleaning_github_version.ipynb) if the document don't open reload or download and open it with Google Colab. 
 
-## The wrangling can be divided in 4 simple steps:
+## The wrangling can be divided in 3 simple steps:
 
-### 1. Importing Libraries
+### 1. Importing Libraries and declaring the function I will use to create some features on the next functions.
 
-![wran1](https://user-images.githubusercontent.com/58957744/116272528-98521e80-a746-11eb-8df7-9b106963825e.png)
+
+![librerias creacion de features](https://user-images.githubusercontent.com/58957744/122441915-a6146b00-cf63-11eb-8588-cb3fd10d23a7.png)
 
 ### 2. Dropping useless features
 
-![wran2](https://user-images.githubusercontent.com/58957744/116274265-1d8a0300-a748-11eb-87d4-87907f0ca433.png)
+![limpiando](https://user-images.githubusercontent.com/58957744/122441935-a9a7f200-cf63-11eb-8b51-3b3eadddc90f.png)
 
-### 3. Creating interesting features like weekday name, hour feature.
 
-![wran3](https://user-images.githubusercontent.com/58957744/116274269-1e229980-a748-11eb-9098-2cda8792575d.png)
+### 3. Executing the function scripts.
 
-### 4. Executing the function scripts.
+![fb actualizando dataset historico](https://user-images.githubusercontent.com/58957744/122442060-cb08de00-cf63-11eb-9456-adcd90f2c7fe.png)
 
-![wran4](https://user-images.githubusercontent.com/58957744/116274272-1e229980-a748-11eb-85c6-c72e27b18236.png)
+### Extra. Making of historic dataset.
+
+![contatenando el primer dataset historico](https://user-images.githubusercontent.com/58957744/122442160-e247cb80-cf63-11eb-880f-7993891becad.png)
 
